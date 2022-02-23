@@ -12,9 +12,6 @@ public class PrimaryController {
     }
     
     public void checkHandler(ActionEvent event) {
-        int a = 20, b = 20;
-        if (a > 0) {
-            int c = a + b;
-        }
+
     }
 } 
