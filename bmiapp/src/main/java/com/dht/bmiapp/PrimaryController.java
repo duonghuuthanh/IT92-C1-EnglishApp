@@ -1,4 +1,4 @@
-package com.dht.bmiapp;
+﻿package com.dht.bmiapp;
 
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
@@ -10,6 +10,7 @@ public class PrimaryController {
     @FXML private TextField txtWeight;
     @FXML private TextField txtHeight;
     @FXML private Label lblResult;
+    // Continue...
     
     public void bmiHandler(ActionEvent event) {
         double height = Double.parseDouble(this.txtHeight.getText());
