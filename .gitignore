@@ -1,5 +1,6 @@
 # Compiled class file
 *.class
+.idea
 
 # Log file
 *.log
@@ -23,3 +24,4 @@
 hs_err_pid*
 /c1englishapp/target/
 /bmiapp/target/
+/JUnitDemo/target/

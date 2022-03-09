@@ -1,4 +1,4 @@
-﻿package com.dht.bmiapp;
+package com.dht.bmiapp;
 
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
